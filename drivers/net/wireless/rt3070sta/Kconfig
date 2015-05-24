@@ -1,0 +1,9 @@
+config RT3070STA
+	tristate "Ralink RT3070 USB support"
+	help
+	This module adds support for wireless adapters based on Ralink RT3070 chipset running over USB.
+
+
+
+
+
